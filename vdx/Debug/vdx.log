@@ -1,0 +1,55 @@
+﻿  stdafx.cpp
+  vdxView.cpp
+  vdxDoc.cpp
+  vdx.cpp
+  MainFrm.cpp
+  Hinhtron.cpp
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(11): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(12): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(13): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(20): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(21): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(23): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(24): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(33): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(33): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(33): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(33): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(42): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(42): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(42): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(42): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(55): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(55): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(55): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(55): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(59): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(59): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(59): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(59): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(66): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(66): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(66): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(66): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(70): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(70): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(70): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\hinhtron.cpp(70): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  Dongxu.cpp
+c:\users\wenot\onedrive\máy tính\vdx\vdx\dongxu.cpp(14): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\dongxu.cpp(15): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\dongxu.cpp(16): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\dongxu.cpp(17): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\dongxu.cpp(23): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vdx\vdx\dongxu.cpp(30): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  vdx.vcxproj -> C:\Users\wenot\OneDrive\Máy tính\vdx\Debug\vdx.exe
